@@ -1,3 +1,15 @@
-/BIL531-01/target/
-/HW01/target/
 /HW1/target/
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+##################
+##### General
+##################
+.DS_Store
+.AppleDouble
+.LSOverride
