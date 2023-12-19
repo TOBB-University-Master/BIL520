@@ -10,8 +10,10 @@ Projenin 2 ana parçası bulunmaktadır.
 - StudentSystem
 - Vulnerability Scanner
 
-#### StudentSystem
+### StudentSystem
 Zafiyetli web sitesini temsil etmektedir ve php ile yazılmıştır. 
 
-#### Vulnerability Scanner
+### VulnerabilityScanner
+VulnerabilityScanner dosyası altında Spring projesi bulunmaktadır. 
+
 Vulnerability Scanner ile zafiyetli uygulamaya istekler (request) gönderilere hangi zafiyetlere açığı olduğu cevabı verecektir.
